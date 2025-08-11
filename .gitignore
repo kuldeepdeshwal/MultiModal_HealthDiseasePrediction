@@ -5,8 +5,6 @@ venv/
 __pycache__/
 
 # Data & History Files
-*.csv
-*.db
 
 # macOS
 .DS_Store

@@ -1,0 +1,2 @@
+Age,Sex,ChestPainType,RestBP,Cholesterol,FastingBS,RestECG,MaxHR,ExerciseAngina,Oldpeak,Slope,Ca,Thal,Prediction
+50,Male,0,120,200,Yes,Normal,150,Yes,1.0,Upsloping,0,Normal,Heart Disease Present
